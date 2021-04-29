@@ -22,14 +22,14 @@ body
 {
     #containerSlider img
     {
-        height: 10em;
+        height: 12em;
     }
 }
 @media(max-width: 500px)
 {
     #containerSlider img
     {
-        height: 8em;
+        height: 10em;
     }
 }
 
